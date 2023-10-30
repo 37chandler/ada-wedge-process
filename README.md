@@ -1,7 +1,9 @@
 # ADA: Wedge Process
 
-This repository builds on our Wedge Exploration exercise. This assignment will help you carry out the Wedge project
+This repository builds on our Wedge Exploration exercise. This exercise will help you carry out the Wedge project
 at an A level. 
+
+You'll write code that carries out the following steps: 
 
 1. Create an empty data frame called `wedge_summary` with the following columns: file_name, num_rows, num_cards, num_dates
 1. Iterate over the zip files that hold the Wedge transaction files
